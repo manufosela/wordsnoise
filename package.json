@@ -8,5 +8,13 @@
   },
   "keywords": ["words", "noise"],
   "author": "manufosela",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manufosela/wordsnoise"
+  },
+  "bugs": {
+    "url": "https://github.com/manufosela/wordsnoise/issues"
+  },
+  "homepage": "https://github.com/manufosela/wordsnoise#readme"
 }
