@@ -1,4 +1,4 @@
-var WordsNoise = require('../WordsNoise.js');
+var WordsNoise = require('../index.js');
 
 var wn = new WordsNoise();
 var cifrado = wn.addNoise('texto de prueba');
